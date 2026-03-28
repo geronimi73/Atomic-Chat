@@ -120,8 +120,11 @@ Apache 2.0 — see [LICENSE](LICENSE) for details.
 
 ### Acknowledgements
 
+Atomic Chat is a fork of [Jan](https://github.com/janhq/jan) — a fantastic open-source local AI chat app built by the Jan team and its contributors. We're grateful for their work and the solid foundation they've provided.
+
 Built on the shoulders of giants:
 
+- [Jan](https://github.com/janhq/jan) — the upstream project this is forked from
 - [Llama.cpp](https://github.com/ggerganov/llama.cpp)
 - [Tauri](https://tauri.app/)
 - [Scalar](https://github.com/scalar/scalar)
